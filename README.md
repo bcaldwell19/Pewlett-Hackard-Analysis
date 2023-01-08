@@ -25,7 +25,9 @@ Pewlett Hackard has been using csvs for database storage.  This method is a bit 
  
 * 133776 employees are approaching retirement age.
 * The two major job openings will be engineers and staff members.  The most being senior level positions, but some lower levels as well.  The picture shows the exact breakdown of the job openings if there are no plans to downsize or consolidate departments.
+
 ![Job Openings](/Resources/job_openings.png)
+
 * There are 1549 current employees that can be possible mentors.
 * In the mentors [csv file](/Data/mentorship_eligibilty.csv), there are zero managers to train future managers.
  
